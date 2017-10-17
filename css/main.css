@@ -2,6 +2,8 @@
 
 html {
   box-sizing: border-box;
+  font-family: georgia, serif;
+  background-color: #f0eee8;
 }
 
 *, *::before, *::after {
